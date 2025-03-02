@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+}
+header .head-1{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: large;
+}
+header .title-bar ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    text-decoration: white;
+    background-color: rgb(173, 207, 146);
+    padding: 20px;
+    font-size: larger;
+}
+header .head-1 .login {
+    width: 303px;
+    height: 200px;
+}
+header .head-1 .signup {
+    width: 303px;
+    height: 200px;
+}

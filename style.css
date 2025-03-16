@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(47, 151, 116);
+}
+header .head-1{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: large;
+    padding: 20px;
+}
+header .head-1 title{
+    font-size:xx-large;
+}
+header .title-bar ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    text-decoration: white;
+    background-color: rgb(228, 202, 72);
+    padding: 20px;
+    font-size: larger;
+}
+header .head-1 .login button{
+    width: 150px;
+    height: 70px;
+    background-color: red;
+}
+header .head-1 .signup button{
+    width: 150px;
+    height: 70px;
+    background-color: red;
+}
+footer ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    text-decoration: white;
+    background-color: rgb(184, 155, 11);
+    padding: 70px;
+    
+}
+
